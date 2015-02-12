@@ -5,5 +5,24 @@
 }
 body {
     font-size: 12px;
-    font-type:
+    font-family: msyh,sim-sun;
+}
+.nav {
+    margin-bottom: 5px;
+    background: red;
+    height: 200px;
+}
+.content {
+    height: 300px;
+    margin-bottom: 5px;
+}
+.left {
+    background: lightgreen;
+}
+.right {
+    background: lightyellow;
+}
+.footer {
+    background: lightnavy;
+    height: 100px;
 }
