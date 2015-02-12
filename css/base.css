@@ -18,10 +18,12 @@ body {
 }
 .left {
     background: lightgreen;
+    height: 300px;
 }
 .right {
     background: lightyellow;
-}
+    height: 300px;
+    }
 .footer {
     background: lightnavy;
     height: 100px;
