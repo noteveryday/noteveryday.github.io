@@ -5,13 +5,13 @@
 }
 body {
     font-size: 12px;
-    font-family: msyh,sim-sun;
+    font-family: Microsoft Yahei, sim-sun;
 }
 .nav {
     margin-bottom: 5px;
     background: red;
     height: 200px;
-}
+    }
 .content {
     height: 300px;
     margin-bottom: 5px;
